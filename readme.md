@@ -6,7 +6,6 @@ Soy FrontEnd Developer Jr y Economista. Me encanta el arte y aprender sobre nuev
 
 Habilidades:  REACT / JS / HTML / CSS / JEST / FIREBASE / GIT /FIGMA / 
 
-- 🔭 Estoy trabajando en https://github.com/cfape/LIM017-notes 
 - 🌱 Estoy aprendiendo React 
 - 👯 Quiero colaborar con desarrollando herramientas tecnológicas inclusivas. 
 - 📫 Cómo contactarme: c.penagos16@gmail.com 
