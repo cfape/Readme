@@ -2,7 +2,7 @@
 
 ![](https://media-exp2.licdn.com/dms/image/C4D16AQFL8aobv-QnWQ/profile-displaybackgroundimage-shrink_200_800/0/1653618917783?e=1663200000&v=beta&t=P8KHnM6UhSojxCdlCEewDKG3nrjX6pEYuqJ7XERhl5M)
 
-Soy FrontEnd Developer Jr y Economista. Me encanta el arte y aprender sobre nuevas tecnologías. Estoy desarrollando un proyecto en React.
+Soy FrontEnd Developer Jr y Economista. Me encanta el arte y aprender sobre nuevas tecnologías. 
 
 Habilidades:  REACT / JS / HTML / CSS / JEST / FIREBASE / GIT /FIGMA / 
 
