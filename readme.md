@@ -12,5 +12,5 @@ Habilidades:  REACT / JS / HTML / CSS / JEST / FIREBASE / GIT /FIGMA /
 - 😄 Pronombres: Ella 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cfape)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cynthia-fa-penagos-90865512b)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cfape)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](/https://www.linkedin.com/in/cynthia-fa-penagos-90865512b)  
 
